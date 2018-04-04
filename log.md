@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 3, 2018
+### Day 1: April 3, 2018
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Set up 100 Days of Code Log, hoping to work on more later this evening.  1 hours worth!
 
 **Thoughts:** I am apprehenisve about 100 days when 30 days was a struggle.  I can do this!
 
-### Day 1: April , 2018
+### Day 2: April , 2018
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: I'm working on a personal project and trying to get user registration to work.  Realized I was mixing E5 and E6 in some places were it doesn't work.  I'm going back through my code to make sure everything is flowing correctly to get username and password to Postico, but not there yet.  Getting more lines of console log to work, but still getting error.
