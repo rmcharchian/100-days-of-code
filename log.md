@@ -7,7 +7,14 @@
 
 **Thoughts:** I am apprehenisve about 100 days when 30 days was a struggle.  I can do this!
 
-<!-- **Link to work:** [Calculator App](http://www.example.com) -->
+### Day 1: April , 2018
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: I'm working on a personal project and trying to get user registration to work.  Realized I was mixing E5 and E6 in some places were it doesn't work.  I'm going back through my code to make sure everything is flowing correctly to get username and password to Postico, but not there yet.  Getting more lines of console log to work, but still getting error.
+
+**Thoughts:** I'm doing this challenge because I need to be sure I'm coding and getting the reps.  I read a great thread on Reddit last night that explained how learning to code is like learning to play an instrument.  
+
+**Link to thread:** [Reddit:Learning to Code is Like Learning to Play an Instrument](https://www.reddit.com/r/learnprogramming/comments/89ccke/are_some_people_just_not_cut_for_programming_ive/?st=JFKIOULM&sh=e7439966)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
