@@ -21,3 +21,9 @@
 **Today's Progress**: Hip, hip, hooray!!!  I got my user registration to work.  It wasn't working, asked my old cohort if anyone had time to look at my code and Adam came to the rescue.  I hadn't registered my router in server.js.  Also, I figured out I wasn't referencing my Postico database correctly.  Once I made those changes it worked!
 
 **Thoughts:** Don't be afraid to ask for help.  When you hit a wall, take the dog for a walk.
+
+### Day 4: April 6, 2018
+
+**Today's Progress**: Today my heart just wasn't in it.  I have registration working, but login doesn't work.  I know I little refresher on SQL/Postico because I need to build my tables and have them link.  Some of the data that will come in will need to be after the user logs in.  I need to prioritize my project and bounce all over the place.  In the meantime, I decided to spend some time on freecodecamp for simple refreshers.
+
+**Thoughts:** I'm glad to be doing 100 days of code, but today I'm just not there.  Will be sure to take steps forward rather than steps back.
