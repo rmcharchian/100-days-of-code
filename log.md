@@ -27,3 +27,9 @@
 **Today's Progress**: Today my heart just wasn't in it.  I have registration working, but login doesn't work.  I know I little refresher on SQL/Postico because I need to build my tables and have them link.  Some of the data that will come in will need to be after the user logs in.  I need to prioritize my project and bounce all over the place.  In the meantime, I decided to spend some time on freecodecamp for simple refreshers.
 
 **Thoughts:** I'm glad to be doing 100 days of code, but today I'm just not there.  Will be sure to take steps forward rather than steps back.
+
+### Day 5: April 7, 2018
+
+**Today's Progress**: This morning I regrouped.  I started a Trello Board to keep track of my tasks and to more easily add questions that I will find answers to later.  I also worked on my SQL DB.  I haven't worked on one in awhile and it's good to back.  It's a great tool and I need to keep my skills fresh.  Looking forward to working on it a little more later today.
+
+**Thoughts:** I need to remember that not each day is going to be a banner day.  Yesterday was not, and that's ok.  Today was a good day, but no parade because some great thing is working or a problem fixed.  Just organizaiton and some DB writing.  It's good.
