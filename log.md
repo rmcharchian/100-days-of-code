@@ -39,3 +39,9 @@
 **Today's Progress**: I thought through which html I would need to set up to also think through my DB.  I worked on both addQuestion.html and DB.  There are some file types I don't know how to save into the DB yet, and I'll need to learn it.
 
 **Thoughts:** I didn't spend as much time coding today as I wanted to, but I did spend the day with my family and truly enjoyed their company.  Some Sunday's are pretty wonderful.
+
+### Day 7: April 9, 2018
+
+**Today's Progress**: Today I went down a little PostgreSQL rabbit hole, but think I figured out what I needed to know.  I'll give it a try, but also needed to head out to appts.
+
+**Thoughts:** Brought laptop with me to get a little more coding in.  I like how mobile it can be.  One of the reasons I wanted to move into this career. I like that 10 years from now I can be almost anywere and work on code.  For now, I need to concentrate on finding an opportunity where I can worked with senior developers and be a sponge.
