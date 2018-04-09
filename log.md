@@ -33,3 +33,9 @@
 **Today's Progress**: This morning I regrouped.  I started a Trello Board to keep track of my tasks and to more easily add questions that I will find answers to later.  I also worked on my SQL DB.  I haven't worked on one in awhile and it's good to back.  It's a great tool and I need to keep my skills fresh.  Looking forward to working on it a little more later today.
 
 **Thoughts:** I need to remember that not each day is going to be a banner day.  Yesterday was not, and that's ok.  Today was a good day, but no parade because some great thing is working or a problem fixed.  Just organizaiton and some DB writing.  It's good.
+
+### Day 6: April 8, 2018
+
+**Today's Progress**: I thought through which html I would need to set up to also think through my DB.  I worked on both addQuestion.html and DB.  There are some file types I don't know how to save into the DB yet, and I'll need to learn it.
+
+**Thoughts:** I didn't spend as much time coding today as I wanted to, but I did spend the day with my family and truly enjoyed their company.  Some Sunday's are pretty wonderful.
