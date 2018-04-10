@@ -45,3 +45,9 @@
 **Today's Progress**: Today I went down a little PostgreSQL rabbit hole, but think I figured out what I needed to know.  I'll give it a try, but also needed to head out to appts.
 
 **Thoughts:** Brought laptop with me to get a little more coding in.  I like how mobile it can be.  One of the reasons I wanted to move into this career. I like that 10 years from now I can be almost anywere and work on code.  For now, I need to concentrate on finding an opportunity where I can worked with senior developers and be a sponge.
+
+### Day 8: April 10, 2018
+
+**Today's Progress**: Today I worked on the askQuestion route but don't have it pushing data to the DB yet.  The example I'm working from only pushes one piece of information at a time, so I need to make sure the Submit button will push all that I'm asking it to.  I'm not sure if I need to have one table or the three I'm currently working from: games, questions, answers.  
+
+**Thoughts:** It was nice to walk through the whole route again.  I think what I have coded will work once I figure out my DB questions regarding pushing data.
