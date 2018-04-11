@@ -51,3 +51,9 @@
 **Today's Progress**: Today I worked on the askQuestion route but don't have it pushing data to the DB yet.  The example I'm working from only pushes one piece of information at a time, so I need to make sure the Submit button will push all that I'm asking it to.  I'm not sure if I need to have one table or the three I'm currently working from: games, questions, answers.  
 
 **Thoughts:** It was nice to walk through the whole route again.  I think what I have coded will work once I figure out my DB questions regarding pushing data.
+
+### Day 9: April 11, 2018
+
+**Today's Progress**: This morning I wanted to try to get my new data to push to DB and worked on the controler and service.  It feels like it's almost there, but it still isn't working.  Sigh.
+
+**Thoughts:** I'm trying hard to not have imposter syndrome and would like to be at a place where I'm more seasoned.  I just need reps and time.  What I do know is I'm not standing in the closet crying because it doesn't work.  I'm just giving the sigh that goes along with it.
