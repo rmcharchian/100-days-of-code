@@ -57,3 +57,9 @@
 **Today's Progress**: This morning I wanted to try to get my new data to push to DB and worked on the controler and service.  It feels like it's almost there, but it still isn't working.  Sigh.
 
 **Thoughts:** I'm trying hard to not have imposter syndrome and would like to be at a place where I'm more seasoned.  I just need reps and time.  What I do know is I'm not standing in the closet crying because it doesn't work.  I'm just giving the sigh that goes along with it.
+
+### Day 10: April 12, 2018
+
+**Today's Progress**: I did get some code in this morning, but haven't been able to spend more time on it like I wanted to.  I'm still struggling a little with how to set up my SQL DB.  I decided today to take advantage of the sale for FrontEndMasters and signed up for it.  There is a SQL lesson, and many others I would like to do.  I worked on getting the SQL lesson set up, but was having a hard time getting it to connect with Git.  Then, we had to hop in the car and drive back from Milwaukee, pick up Audrey, pick up the dog, go to the dog park, get dinner, and now I'm home and exhausted.  Will hit it again FRESH in the morning.
+
+**Thoughts:** Sometimes life get's in the way of our plans.  But, would any of the plans be worth it if it were not for the life?
