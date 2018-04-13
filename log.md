@@ -63,3 +63,9 @@
 **Today's Progress**: I did get some code in this morning, but haven't been able to spend more time on it like I wanted to.  I'm still struggling a little with how to set up my SQL DB.  I decided today to take advantage of the sale for FrontEndMasters and signed up for it.  There is a SQL lesson, and many others I would like to do.  I worked on getting the SQL lesson set up, but was having a hard time getting it to connect with Git.  Then, we had to hop in the car and drive back from Milwaukee, pick up Audrey, pick up the dog, go to the dog park, get dinner, and now I'm home and exhausted.  Will hit it again FRESH in the morning.
 
 **Thoughts:** Sometimes life get's in the way of our plans.  But, would any of the plans be worth it if it were not for the life?
+
+### Day 11: April 13, 2018
+
+**Today's Progress**: Somedays we have to be a little lose in our defination of progress.  Today, progress was figuring out which Git command I was missing to clone something that SHOULD have been easy to clone.  From this day forward, I will never forget the importance of "git remote rename origin upstream".
+
+**Thoughts:** I should just spend one whole day playing with Git.  Sigh.
