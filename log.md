@@ -69,3 +69,9 @@
 **Today's Progress**: Somedays we have to be a little lose in our defination of progress.  Today, progress was figuring out which Git command I was missing to clone something that SHOULD have been easy to clone.  From this day forward, I will never forget the importance of "git remote rename origin upstream".
 
 **Thoughts:** I should just spend one whole day playing with Git.  Sigh.
+
+### Day 12: April 14, 2018
+
+**Today's Progress**: Not as much progess as I had hoped for.  Started the Frontend Masters SQL Fundamentals course, but can't get it to run on local host.  Feeling very frustrated, but put question out on Slack to see if anyone else has had this issue.
+
+**Thoughts:** Today I have imposter syndrome.  It is what it is.
