@@ -75,3 +75,15 @@
 **Today's Progress**: Not as much progess as I had hoped for.  Started the Frontend Masters SQL Fundamentals course, but can't get it to run on local host.  Feeling very frustrated, but put question out on Slack to see if anyone else has had this issue.
 
 **Thoughts:** Today I have imposter syndrome.  It is what it is.
+
+### Day 13: April 15, 2018
+
+**Today's Progress**: Today I coded a little, but was also playing April 2018 Blizzard and shoveled, played board games, ate leftovers.  I should have recorded what I worked on, but only realized today (Day 15) that I didn't log it.
+
+**Thoughts:** Special circumstance
+
+### Day 14: April 16, 2018
+
+**Today's Progress**: Today I did get some of the buttons on the nav bar of personal project to work.  Didn't get as much coding time in as I had hoped to.  But, today was Paul's birthday and we were having his family over for dinner.  Didn't get to run any errands over the weekend, and had to do all of it today.
+
+**Thoughts:**  Excuses!  Not really, this weekend we didn't leave the house because of the blizzard.
