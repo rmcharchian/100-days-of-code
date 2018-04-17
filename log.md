@@ -87,3 +87,9 @@
 **Today's Progress**: Today I did get some of the buttons on the nav bar of personal project to work.  Didn't get as much coding time in as I had hoped to.  But, today was Paul's birthday and we were having his family over for dinner.  Didn't get to run any errands over the weekend, and had to do all of it today.
 
 **Thoughts:**  Excuses!  Not really, this weekend we didn't leave the house because of the blizzard.
+
+### Day 15: April 17, 2018
+
+**Today's Progress**: Today I coded on my project a little before I left the house, but then worked on Frontend Masters and Code Pen now that I'm out running errands, between appts.  Again, I love how mobile this is.  I just wish I was a little more seasoned.
+
+**Thoughts:**  I want to have time to do this all day, every day.  I would be so much better at it.
