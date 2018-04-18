@@ -93,3 +93,9 @@
 **Today's Progress**: Today I coded on my project a little before I left the house, but then worked on Frontend Masters and Code Pen now that I'm out running errands, between appts.  Again, I love how mobile this is.  I just wish I was a little more seasoned.
 
 **Thoughts:**  I want to have time to do this all day, every day.  I would be so much better at it.
+
+### Day 16: April 18, 2018
+
+**Today's Progress**: TodayI got sidetracked by CSS and adding an image.  I know this is stuff people get stuck in the rabbit hole on.  Once you get started you just want it to work.  I finally have an image and tomorrow I will adjust the location of the image.
+
+**Thoughts:**  I can't believe I'm already on Day 16.
