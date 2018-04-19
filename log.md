@@ -99,3 +99,9 @@
 **Today's Progress**: TodayI got sidetracked by CSS and adding an image.  I know this is stuff people get stuck in the rabbit hole on.  Once you get started you just want it to work.  I finally have an image and tomorrow I will adjust the location of the image.
 
 **Thoughts:**  I can't believe I'm already on Day 16.
+
+### Day 17: April 19, 2018
+
+**Today's Progress**: I worked on some buttons and the flow of some of the pages of my personal project.  There is alot it does, and I need to remember to make it more simple rather than more layered.  If that makes sense.
+
+**Thoughts:**  I didn't spend as much time on this as I had hoped to.  But, it's 50 degrees out.  I know that shouldn't make a difference, but we just had a blizzard.  Needed to take dog on an extra long walk today.
