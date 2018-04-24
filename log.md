@@ -106,8 +106,14 @@
 
 **Thoughts:**  I didn't spend as much time on this as I had hoped to.  But, it's 50 degrees out.  I know that shouldn't make a difference, but we just had a blizzard.  Needed to take dog on an extra long walk today.
 
-### Day 18, 19, 20, 21: April 20, 21, 22, 23, 24, 2018
+### Day 18, 19, 20, 21: April 20, 21, 22, 23, 2018
 
 **Today's Progress**: Oh.My.Goodness.  I missed a day of coding on Friday and thus neglected to my other days over the weekend.  I had no idea I haven't logged for 3 full days.  I had a great phone interview on Friday, but I found out today that they are passing me up.  I also received two other rejections.  This is not for the faint of heart.  I worked a little on Game Board Questions, but also did a little Frontend Masters, and am now working on building my own portfolio through Free Code Camp.  I needed to have a success.
 
 **Thoughts:**:  I will not apply at Cub.  I will not apply at Cub.
+
+### Day 22: April 24, 2018
+
+**Today's Progress**: I spent most of today working on my personal portfolio and working with CSS.  It was nice to go back to a basic project vs the other personal project I'm working on where I am stretching myself a little too much.  It's overwhelming.  Looking forward to more time on personal website tomorrow.
+
+**Thoughts:**:  I did not apply at Cub today.  Not that there is anyting wrong with that.
