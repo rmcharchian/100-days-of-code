@@ -117,3 +117,9 @@
 **Today's Progress**: I spent most of today working on my personal portfolio and working with CSS.  It was nice to go back to a basic project vs the other personal project I'm working on where I am stretching myself a little too much.  It's overwhelming.  Looking forward to more time on personal website tomorrow.
 
 **Thoughts:**:  I did not apply at Cub today.  Not that there is anyting wrong with that.
+
+### Day 23, 24, 25 : April 25, 26, 27, 2018
+
+**Today's Progress**: I started the week with three rejections, and haven't really picked up my momentum again.  I've coded, but not much, and I haven't logged.  I will need to keep at it.  I will need to stay motivated.  I will need to remember that only time and practice will make me a better developer.
+
+**Thoughts:**:  See the above.  Sigh.
