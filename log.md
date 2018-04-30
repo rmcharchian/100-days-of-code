@@ -123,3 +123,11 @@
 **Today's Progress**: I started the week with three rejections, and haven't really picked up my momentum again.  I've coded, but not much, and I haven't logged.  I will need to keep at it.  I will need to stay motivated.  I will need to remember that only time and practice will make me a better developer.
 
 **Thoughts:**:  See the above.  Sigh.
+
+### Day 26: April 28, 2018
+
+**Today's Progress**: I could have gotten more coding in, but it was also the weekend and I took some time to also do yard work, etc.  I had a pretty rough week last week and hope to have a better week this week.  No Imposter Syndrome this week.
+
+**Thoughts:**:  I will really need to be sure I am spending the time I need to on this.
+
+**Days Remaining:**: 64 (I am not doing the full 100 days due to a family vacation that falls during the last days of the challenge)
